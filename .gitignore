@@ -1,0 +1,7 @@
+# Ignore files and directories created by Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+*.backup
+*.plan
+.terraform.lock.hcl
